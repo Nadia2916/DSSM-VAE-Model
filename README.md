@@ -22,8 +22,8 @@ Each subset consists of three files:
   - Performs preprocessing and feature engineering
   - Builds and trains a DSSM + VAE model
   - Evaluates the model on the test set
-  - 
+ 
 ## Requirements
 - Python 3.x
-- TensorFlow / PyTorch (depending on your implementation)
+- PyTorch 
 - pandas, numpy, matplotlib, sklearn
